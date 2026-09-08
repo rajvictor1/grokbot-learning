@@ -1,0 +1,434 @@
+[
+  {
+    "id": "shot_001",
+    "file": "/images/codex-clipboard-0665e392-a6ad-4f3a-8f90-655107bc02b7.png",
+    "name": "codex-clipboard-0665e392-a6ad-4f3a-8f90-655107bc02b7.png",
+    "caption": "GrokBot session screenshot #1"
+  },
+  {
+    "id": "shot_002",
+    "file": "/images/codex-clipboard-0ad88f76-3623-46c6-9cf5-8a001daba087.png",
+    "name": "codex-clipboard-0ad88f76-3623-46c6-9cf5-8a001daba087.png",
+    "caption": "GrokBot session screenshot #2"
+  },
+  {
+    "id": "shot_003",
+    "file": "/images/codex-clipboard-0c7d9416-ad72-43b0-9686-47e70b31c35b.png",
+    "name": "codex-clipboard-0c7d9416-ad72-43b0-9686-47e70b31c35b.png",
+    "caption": "GrokBot session screenshot #3"
+  },
+  {
+    "id": "shot_004",
+    "file": "/images/codex-clipboard-14dc745c-33db-4ea0-a013-d8e67e097595.png",
+    "name": "codex-clipboard-14dc745c-33db-4ea0-a013-d8e67e097595.png",
+    "caption": "GrokBot session screenshot #4"
+  },
+  {
+    "id": "shot_005",
+    "file": "/images/codex-clipboard-200ca6be-45c8-40ce-9428-c19e3d6ff963.png",
+    "name": "codex-clipboard-200ca6be-45c8-40ce-9428-c19e3d6ff963.png",
+    "caption": "GrokBot session screenshot #5"
+  },
+  {
+    "id": "shot_006",
+    "file": "/images/codex-clipboard-266270b3-6e4e-4275-8e6f-cbe62b754051.png",
+    "name": "codex-clipboard-266270b3-6e4e-4275-8e6f-cbe62b754051.png",
+    "caption": "GrokBot session screenshot #6"
+  },
+  {
+    "id": "shot_007",
+    "file": "/images/codex-clipboard-27e64425-6942-431e-a525-939d87f6658b.png",
+    "name": "codex-clipboard-27e64425-6942-431e-a525-939d87f6658b.png",
+    "caption": "GrokBot session screenshot #7"
+  },
+  {
+    "id": "shot_008",
+    "file": "/images/codex-clipboard-2846d271-a029-4eea-a071-936b058bf9a8.png",
+    "name": "codex-clipboard-2846d271-a029-4eea-a071-936b058bf9a8.png",
+    "caption": "GrokBot session screenshot #8"
+  },
+  {
+    "id": "shot_009",
+    "file": "/images/codex-clipboard-291fd88e-ae10-4072-b4fb-aef616059d61.png",
+    "name": "codex-clipboard-291fd88e-ae10-4072-b4fb-aef616059d61.png",
+    "caption": "GrokBot session screenshot #9"
+  },
+  {
+    "id": "shot_010",
+    "file": "/images/codex-clipboard-2c28c132-b460-449b-8882-46a3c2e880d7.png",
+    "name": "codex-clipboard-2c28c132-b460-449b-8882-46a3c2e880d7.png",
+    "caption": "GrokBot session screenshot #10"
+  },
+  {
+    "id": "shot_011",
+    "file": "/images/codex-clipboard-2e35384f-467c-415e-9d91-c1fe40c5b411.png",
+    "name": "codex-clipboard-2e35384f-467c-415e-9d91-c1fe40c5b411.png",
+    "caption": "GrokBot session screenshot #11"
+  },
+  {
+    "id": "shot_012",
+    "file": "/images/codex-clipboard-2eea9d78-ca9e-4224-a54c-afc38a077421.png",
+    "name": "codex-clipboard-2eea9d78-ca9e-4224-a54c-afc38a077421.png",
+    "caption": "GrokBot session screenshot #12"
+  },
+  {
+    "id": "shot_013",
+    "file": "/images/codex-clipboard-30cc9196-a2f0-4a05-93ce-50bf3b786974.png",
+    "name": "codex-clipboard-30cc9196-a2f0-4a05-93ce-50bf3b786974.png",
+    "caption": "GrokBot session screenshot #13"
+  },
+  {
+    "id": "shot_014",
+    "file": "/images/codex-clipboard-338a4c9c-e114-4a12-bbfe-abd7c5255f1e.png",
+    "name": "codex-clipboard-338a4c9c-e114-4a12-bbfe-abd7c5255f1e.png",
+    "caption": "GrokBot session screenshot #14"
+  },
+  {
+    "id": "shot_015",
+    "file": "/images/codex-clipboard-3a28c336-e38f-4a69-845c-e33483466122.png",
+    "name": "codex-clipboard-3a28c336-e38f-4a69-845c-e33483466122.png",
+    "caption": "GrokBot session screenshot #15"
+  },
+  {
+    "id": "shot_016",
+    "file": "/images/codex-clipboard-3e25d4b5-2729-4865-a337-4dd9ee4e0197.png",
+    "name": "codex-clipboard-3e25d4b5-2729-4865-a337-4dd9ee4e0197.png",
+    "caption": "GrokBot session screenshot #16"
+  },
+  {
+    "id": "shot_017",
+    "file": "/images/codex-clipboard-3ecd4170-eb82-4b70-a8eb-7a47590538f8.png",
+    "name": "codex-clipboard-3ecd4170-eb82-4b70-a8eb-7a47590538f8.png",
+    "caption": "GrokBot session screenshot #17"
+  },
+  {
+    "id": "shot_018",
+    "file": "/images/codex-clipboard-40111b04-3dd8-4752-a126-cb0f10bb8064.png",
+    "name": "codex-clipboard-40111b04-3dd8-4752-a126-cb0f10bb8064.png",
+    "caption": "GrokBot session screenshot #18"
+  },
+  {
+    "id": "shot_019",
+    "file": "/images/codex-clipboard-472fce04-1991-48c9-a55b-6476613374bc.png",
+    "name": "codex-clipboard-472fce04-1991-48c9-a55b-6476613374bc.png",
+    "caption": "GrokBot session screenshot #19"
+  },
+  {
+    "id": "shot_020",
+    "file": "/images/codex-clipboard-4970f557-3ef8-4ff2-a8bf-c08f2277bc0a.png",
+    "name": "codex-clipboard-4970f557-3ef8-4ff2-a8bf-c08f2277bc0a.png",
+    "caption": "GrokBot session screenshot #20"
+  },
+  {
+    "id": "shot_021",
+    "file": "/images/codex-clipboard-502ceaee-45a0-47cf-bcad-53427fe7f27f.png",
+    "name": "codex-clipboard-502ceaee-45a0-47cf-bcad-53427fe7f27f.png",
+    "caption": "GrokBot session screenshot #21"
+  },
+  {
+    "id": "shot_022",
+    "file": "/images/codex-clipboard-50e8080d-7566-4dc3-924f-8176838e0cd7.png",
+    "name": "codex-clipboard-50e8080d-7566-4dc3-924f-8176838e0cd7.png",
+    "caption": "GrokBot session screenshot #22"
+  },
+  {
+    "id": "shot_023",
+    "file": "/images/codex-clipboard-51112b4f-b68b-4c55-af09-84db3dbc4f67.png",
+    "name": "codex-clipboard-51112b4f-b68b-4c55-af09-84db3dbc4f67.png",
+    "caption": "GrokBot session screenshot #23"
+  },
+  {
+    "id": "shot_024",
+    "file": "/images/codex-clipboard-544bcd97-8bff-42a0-b933-aa861a87aa5b.png",
+    "name": "codex-clipboard-544bcd97-8bff-42a0-b933-aa861a87aa5b.png",
+    "caption": "GrokBot session screenshot #24"
+  },
+  {
+    "id": "shot_025",
+    "file": "/images/codex-clipboard-594a268d-cdf3-4ad6-bf5a-315b8bf5a854.png",
+    "name": "codex-clipboard-594a268d-cdf3-4ad6-bf5a-315b8bf5a854.png",
+    "caption": "GrokBot session screenshot #25"
+  },
+  {
+    "id": "shot_026",
+    "file": "/images/codex-clipboard-5fd58ffb-ff71-4c78-bbd6-b034a33bbf69.png",
+    "name": "codex-clipboard-5fd58ffb-ff71-4c78-bbd6-b034a33bbf69.png",
+    "caption": "GrokBot session screenshot #26"
+  },
+  {
+    "id": "shot_027",
+    "file": "/images/codex-clipboard-60852fa0-10b6-44f8-ba45-99683ce0d5e1.png",
+    "name": "codex-clipboard-60852fa0-10b6-44f8-ba45-99683ce0d5e1.png",
+    "caption": "GrokBot session screenshot #27"
+  },
+  {
+    "id": "shot_028",
+    "file": "/images/codex-clipboard-64e880e7-f185-452a-9f2f-3cfc89ca1b8b.png",
+    "name": "codex-clipboard-64e880e7-f185-452a-9f2f-3cfc89ca1b8b.png",
+    "caption": "GrokBot session screenshot #28"
+  },
+  {
+    "id": "shot_029",
+    "file": "/images/codex-clipboard-662a3e91-5a5c-43a7-ac0f-5406b2e08931.png",
+    "name": "codex-clipboard-662a3e91-5a5c-43a7-ac0f-5406b2e08931.png",
+    "caption": "GrokBot session screenshot #29"
+  },
+  {
+    "id": "shot_030",
+    "file": "/images/codex-clipboard-6c2d37c0-2c0a-469c-bd0a-f171ad7d1931.png",
+    "name": "codex-clipboard-6c2d37c0-2c0a-469c-bd0a-f171ad7d1931.png",
+    "caption": "GrokBot session screenshot #30"
+  },
+  {
+    "id": "shot_031",
+    "file": "/images/codex-clipboard-72d7a567-48e7-4d3e-b689-384be4718ec0.png",
+    "name": "codex-clipboard-72d7a567-48e7-4d3e-b689-384be4718ec0.png",
+    "caption": "GrokBot session screenshot #31"
+  },
+  {
+    "id": "shot_032",
+    "file": "/images/codex-clipboard-761731b7-9d71-4f79-b18f-aaa2e5ded246.png",
+    "name": "codex-clipboard-761731b7-9d71-4f79-b18f-aaa2e5ded246.png",
+    "caption": "GrokBot session screenshot #32"
+  },
+  {
+    "id": "shot_033",
+    "file": "/images/codex-clipboard-7a779c56-2468-412f-8ae4-8bff7d598b7e.png",
+    "name": "codex-clipboard-7a779c56-2468-412f-8ae4-8bff7d598b7e.png",
+    "caption": "GrokBot session screenshot #33"
+  },
+  {
+    "id": "shot_034",
+    "file": "/images/codex-clipboard-7d4bcb22-3363-4bc1-91bf-46739e284419.png",
+    "name": "codex-clipboard-7d4bcb22-3363-4bc1-91bf-46739e284419.png",
+    "caption": "GrokBot session screenshot #34"
+  },
+  {
+    "id": "shot_035",
+    "file": "/images/codex-clipboard-7e49a53a-e5e3-4f39-bf65-7a0b0bd57039.png",
+    "name": "codex-clipboard-7e49a53a-e5e3-4f39-bf65-7a0b0bd57039.png",
+    "caption": "GrokBot session screenshot #35"
+  },
+  {
+    "id": "shot_036",
+    "file": "/images/codex-clipboard-7ecff7b1-5c4f-4937-b3df-4e529524b135.png",
+    "name": "codex-clipboard-7ecff7b1-5c4f-4937-b3df-4e529524b135.png",
+    "caption": "GrokBot session screenshot #36"
+  },
+  {
+    "id": "shot_037",
+    "file": "/images/codex-clipboard-9182e8ff-e359-4b70-bfb3-7ea39cc9beb4.png",
+    "name": "codex-clipboard-9182e8ff-e359-4b70-bfb3-7ea39cc9beb4.png",
+    "caption": "GrokBot session screenshot #37"
+  },
+  {
+    "id": "shot_038",
+    "file": "/images/codex-clipboard-9490cc01-60d6-4776-a60f-55f6018540db.png",
+    "name": "codex-clipboard-9490cc01-60d6-4776-a60f-55f6018540db.png",
+    "caption": "GrokBot session screenshot #38"
+  },
+  {
+    "id": "shot_039",
+    "file": "/images/codex-clipboard-94cef110-664f-4f9d-80f3-511fd700416a.png",
+    "name": "codex-clipboard-94cef110-664f-4f9d-80f3-511fd700416a.png",
+    "caption": "GrokBot session screenshot #39"
+  },
+  {
+    "id": "shot_040",
+    "file": "/images/codex-clipboard-97325120-1f49-4fc6-80f7-9e8e135f49eb.png",
+    "name": "codex-clipboard-97325120-1f49-4fc6-80f7-9e8e135f49eb.png",
+    "caption": "GrokBot session screenshot #40"
+  },
+  {
+    "id": "shot_041",
+    "file": "/images/codex-clipboard-9c766199-2eef-4bfa-b021-f397c61702ac.png",
+    "name": "codex-clipboard-9c766199-2eef-4bfa-b021-f397c61702ac.png",
+    "caption": "GrokBot session screenshot #41"
+  },
+  {
+    "id": "shot_042",
+    "file": "/images/codex-clipboard-a668e341-3e4f-4043-adae-c98afbbd514a.png",
+    "name": "codex-clipboard-a668e341-3e4f-4043-adae-c98afbbd514a.png",
+    "caption": "GrokBot session screenshot #42"
+  },
+  {
+    "id": "shot_043",
+    "file": "/images/codex-clipboard-abb0b61e-b219-48c4-b773-0b1606eb2c3d.png",
+    "name": "codex-clipboard-abb0b61e-b219-48c4-b773-0b1606eb2c3d.png",
+    "caption": "GrokBot session screenshot #43"
+  },
+  {
+    "id": "shot_044",
+    "file": "/images/codex-clipboard-afc928db-2400-4466-bf96-de648cc739f6.png",
+    "name": "codex-clipboard-afc928db-2400-4466-bf96-de648cc739f6.png",
+    "caption": "GrokBot session screenshot #44"
+  },
+  {
+    "id": "shot_045",
+    "file": "/images/codex-clipboard-b1044c3f-b61b-4fb9-be5e-d016b5764806.png",
+    "name": "codex-clipboard-b1044c3f-b61b-4fb9-be5e-d016b5764806.png",
+    "caption": "GrokBot session screenshot #45"
+  },
+  {
+    "id": "shot_046",
+    "file": "/images/codex-clipboard-b3b23626-ca96-4ad3-8967-00a094568629.png",
+    "name": "codex-clipboard-b3b23626-ca96-4ad3-8967-00a094568629.png",
+    "caption": "GrokBot session screenshot #46"
+  },
+  {
+    "id": "shot_047",
+    "file": "/images/codex-clipboard-b3d2c134-081f-4d26-b80b-30fe9aba3a3d.png",
+    "name": "codex-clipboard-b3d2c134-081f-4d26-b80b-30fe9aba3a3d.png",
+    "caption": "GrokBot session screenshot #47"
+  },
+  {
+    "id": "shot_048",
+    "file": "/images/codex-clipboard-b3fdfe86-7b23-4d0b-b16c-f5d5038a3938.png",
+    "name": "codex-clipboard-b3fdfe86-7b23-4d0b-b16c-f5d5038a3938.png",
+    "caption": "GrokBot session screenshot #48"
+  },
+  {
+    "id": "shot_049",
+    "file": "/images/codex-clipboard-b69d2df4-8f11-4fdf-9b04-2579061e4156.png",
+    "name": "codex-clipboard-b69d2df4-8f11-4fdf-9b04-2579061e4156.png",
+    "caption": "GrokBot session screenshot #49"
+  },
+  {
+    "id": "shot_050",
+    "file": "/images/codex-clipboard-b8d4e3a5-7c7e-4124-97b5-931b596c1258.png",
+    "name": "codex-clipboard-b8d4e3a5-7c7e-4124-97b5-931b596c1258.png",
+    "caption": "GrokBot session screenshot #50"
+  },
+  {
+    "id": "shot_051",
+    "file": "/images/codex-clipboard-bd8ee3af-f0bc-45c4-b911-690eb72b9874.png",
+    "name": "codex-clipboard-bd8ee3af-f0bc-45c4-b911-690eb72b9874.png",
+    "caption": "GrokBot session screenshot #51"
+  },
+  {
+    "id": "shot_052",
+    "file": "/images/codex-clipboard-c02fa628-240b-4f93-afbe-73a3520198cf.png",
+    "name": "codex-clipboard-c02fa628-240b-4f93-afbe-73a3520198cf.png",
+    "caption": "GrokBot session screenshot #52"
+  },
+  {
+    "id": "shot_053",
+    "file": "/images/codex-clipboard-c1c2251d-d9ea-4508-a790-562e0a7c5888.png",
+    "name": "codex-clipboard-c1c2251d-d9ea-4508-a790-562e0a7c5888.png",
+    "caption": "GrokBot session screenshot #53"
+  },
+  {
+    "id": "shot_054",
+    "file": "/images/codex-clipboard-c23f4a40-c774-4b03-9b51-d943f83c641d.png",
+    "name": "codex-clipboard-c23f4a40-c774-4b03-9b51-d943f83c641d.png",
+    "caption": "GrokBot session screenshot #54"
+  },
+  {
+    "id": "shot_055",
+    "file": "/images/codex-clipboard-cdf49a0d-647b-42bb-ad3b-60c3dc3e7064.png",
+    "name": "codex-clipboard-cdf49a0d-647b-42bb-ad3b-60c3dc3e7064.png",
+    "caption": "GrokBot session screenshot #55"
+  },
+  {
+    "id": "shot_056",
+    "file": "/images/codex-clipboard-ce83fcdb-8357-4cc1-82bc-089621961a27.png",
+    "name": "codex-clipboard-ce83fcdb-8357-4cc1-82bc-089621961a27.png",
+    "caption": "GrokBot session screenshot #56"
+  },
+  {
+    "id": "shot_057",
+    "file": "/images/codex-clipboard-d6bf76d4-117a-41b5-a4c5-3b4bab642c96.png",
+    "name": "codex-clipboard-d6bf76d4-117a-41b5-a4c5-3b4bab642c96.png",
+    "caption": "GrokBot session screenshot #57"
+  },
+  {
+    "id": "shot_058",
+    "file": "/images/codex-clipboard-db7e3d67-88d7-468d-b21d-ed68e048fe3f.png",
+    "name": "codex-clipboard-db7e3d67-88d7-468d-b21d-ed68e048fe3f.png",
+    "caption": "GrokBot session screenshot #58"
+  },
+  {
+    "id": "shot_059",
+    "file": "/images/codex-clipboard-dd6f196f-23f6-4b10-ae8c-a279a4d00b6b.png",
+    "name": "codex-clipboard-dd6f196f-23f6-4b10-ae8c-a279a4d00b6b.png",
+    "caption": "GrokBot session screenshot #59"
+  },
+  {
+    "id": "shot_060",
+    "file": "/images/codex-clipboard-de8556df-8ca1-481a-873a-1f6428071e0c.png",
+    "name": "codex-clipboard-de8556df-8ca1-481a-873a-1f6428071e0c.png",
+    "caption": "GrokBot session screenshot #60"
+  },
+  {
+    "id": "shot_061",
+    "file": "/images/codex-clipboard-e20958f7-cb36-4d8e-abb2-7b60f0f3a3e9.png",
+    "name": "codex-clipboard-e20958f7-cb36-4d8e-abb2-7b60f0f3a3e9.png",
+    "caption": "GrokBot session screenshot #61"
+  },
+  {
+    "id": "shot_062",
+    "file": "/images/codex-clipboard-e358d0ee-2f0b-461b-8b69-886148b725b2.png",
+    "name": "codex-clipboard-e358d0ee-2f0b-461b-8b69-886148b725b2.png",
+    "caption": "GrokBot session screenshot #62"
+  },
+  {
+    "id": "shot_063",
+    "file": "/images/codex-clipboard-e3627a7f-dbce-491c-94fc-7a4134a3d25c.png",
+    "name": "codex-clipboard-e3627a7f-dbce-491c-94fc-7a4134a3d25c.png",
+    "caption": "GrokBot session screenshot #63"
+  },
+  {
+    "id": "shot_064",
+    "file": "/images/codex-clipboard-e44b9321-b47b-4e09-92c2-e76913b2c8db.png",
+    "name": "codex-clipboard-e44b9321-b47b-4e09-92c2-e76913b2c8db.png",
+    "caption": "GrokBot session screenshot #64"
+  },
+  {
+    "id": "shot_065",
+    "file": "/images/codex-clipboard-e4b4e0e1-c752-43d6-bb9a-e55192a0b706.png",
+    "name": "codex-clipboard-e4b4e0e1-c752-43d6-bb9a-e55192a0b706.png",
+    "caption": "GrokBot session screenshot #65"
+  },
+  {
+    "id": "shot_066",
+    "file": "/images/codex-clipboard-e86a74e8-0fbf-4332-b785-834e0028494d.png",
+    "name": "codex-clipboard-e86a74e8-0fbf-4332-b785-834e0028494d.png",
+    "caption": "GrokBot session screenshot #66"
+  },
+  {
+    "id": "shot_067",
+    "file": "/images/codex-clipboard-efd9d081-142e-486c-abe4-befdf653768f.png",
+    "name": "codex-clipboard-efd9d081-142e-486c-abe4-befdf653768f.png",
+    "caption": "GrokBot session screenshot #67"
+  },
+  {
+    "id": "shot_068",
+    "file": "/images/codex-clipboard-f12008d7-6683-4e8b-8484-7eecf417ff2e.png",
+    "name": "codex-clipboard-f12008d7-6683-4e8b-8484-7eecf417ff2e.png",
+    "caption": "GrokBot session screenshot #68"
+  },
+  {
+    "id": "shot_069",
+    "file": "/images/codex-clipboard-f298aa39-16c3-4552-9371-a841a68ffe58.png",
+    "name": "codex-clipboard-f298aa39-16c3-4552-9371-a841a68ffe58.png",
+    "caption": "GrokBot session screenshot #69"
+  },
+  {
+    "id": "shot_070",
+    "file": "/images/codex-clipboard-f40ce390-3019-49ca-81c5-659583031868.png",
+    "name": "codex-clipboard-f40ce390-3019-49ca-81c5-659583031868.png",
+    "caption": "GrokBot session screenshot #70"
+  },
+  {
+    "id": "shot_071",
+    "file": "/images/codex-clipboard-f69428fe-e159-4218-b02d-a4542749cffd.png",
+    "name": "codex-clipboard-f69428fe-e159-4218-b02d-a4542749cffd.png",
+    "caption": "GrokBot session screenshot #71"
+  },
+  {
+    "id": "shot_072",
+    "file": "/images/codex-clipboard-f8c1f6d9-ed8c-4541-bf9c-d3e4a504eab5.png",
+    "name": "codex-clipboard-f8c1f6d9-ed8c-4541-bf9c-d3e4a504eab5.png",
+    "caption": "GrokBot session screenshot #72"
+  }
+]
